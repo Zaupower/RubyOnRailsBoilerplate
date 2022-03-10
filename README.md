@@ -1,0 +1,2 @@
+# RubyOnRailsBoilerplate
+First rails project

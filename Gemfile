@@ -3,6 +3,15 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby "3.1.1"
 
+# Marcelo Gems
+
+#bootstrap
+gem "bootstrap-sass", "~> 3.3.6"
+
+#jquery
+gem "jquery-rails", "~> 4.3.1"
+# Marcelo Gems
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 
